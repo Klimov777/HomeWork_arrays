@@ -1,0 +1,15 @@
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\bin\Debug\net6.0\task_010.exe
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\bin\Debug\net6.0\task_010.deps.json
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\bin\Debug\net6.0\task_010.runtimeconfig.json
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\bin\Debug\net6.0\task_010.dll
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\bin\Debug\net6.0\task_010.pdb
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.csproj.AssemblyReference.cache
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.AssemblyInfoInputs.cache
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.AssemblyInfo.cs
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.csproj.CoreCompileInputs.cache
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.dll
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\refint\task_010.dll
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.pdb
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\task_010.genruntimeconfig.cache
+C:\Users\klimo\Desktop\HomeWork_Messive\task_010\obj\Debug\net6.0\ref\task_010.dll
