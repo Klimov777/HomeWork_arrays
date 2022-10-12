@@ -11,23 +11,23 @@
  
  if (a==1)
  {
-    Console.WriteLine=("Понедельник, не рабочий день");
+    Console.WriteLine("Понедельник,  рабочий день");
  }
  else if (a==2)
  {
-    Console.WriteLine("Вторник, не рабочий день");
+    Console.WriteLine("Вторник,  рабочий день");
  }
  else if (a==3)
  {
-    Console.WriteLine("Среда, не рабочий день");
+    Console.WriteLine("Среда,  рабочий день");
  }
  else if (a==4)
  {
-    Console.WriteLine("Четверг, не рабочий день");
+    Console.WriteLine("Четверг,  рабочий день");
  }
  else if (a==5)
  {
-    Console.WriteLine("Пятнаца, не рабочий день");
+    Console.WriteLine("Пятнаца,  рабочий день");
  }
  else if (a==6)
  {
