@@ -10,7 +10,7 @@ int numberN = Int.Parse(Console.ReadLine());
     
     int counter = Convert.ToString(numberN).Length;
     int advance = 0;
-    int result =
+    int result = 0;
 
     for (int i = 0; i < counter; i++){
       advance = numberN - numberN % 10;
